@@ -28,6 +28,12 @@
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>DB_Creacion.sql</FullPath>
         </FileNode>
+        <FileNode Name="intel dato perdido.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>intel dato perdido.sql</FullPath>
+        </FileNode>
         <FileNode Name="Query Verificacion_Appol_Excel.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
