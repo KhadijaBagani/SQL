@@ -1,0 +1,6 @@
+
+CREATE TABLE Autores (
+
+Autor_PK TINYINT PRIMARY KEY IDENTITY(1,1),
+    Autor VARCHAR(70) NOT NULL,
+	);

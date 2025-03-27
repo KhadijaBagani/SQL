@@ -1,0 +1,12 @@
+
+CREATE TABLE Datos_Libros (
+
+    Libro_PK TINYINT PRIMARY KEY IDENTITY(1,1),
+    Titulo VARCHAR(200) NOT NULL,
+    Autor_FK TINYINT NOT NULL,
+    FechaEdicion FLOAT NOT NULL,
+	CONSTRAINT FK_Datos_Libros_Autor FOREIGN KEY (Autor_FK) REFERENCES Autores(Autor_PK),
+    CONSTRAINT CK_FechaEdicion CHECK (YEAR(FechaEdicion) BETWEEN 1900 AND 1940)
+);
+
+

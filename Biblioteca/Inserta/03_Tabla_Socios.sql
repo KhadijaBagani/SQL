@@ -1,0 +1,18 @@
+INSERT INTO Socios 
+Values ('Juan Pérez', 'Calle Falsa 123', '123456789', 'juan.perez@email.com', '2025-01-15'),
+('Ana Gómez', 'Avenida Siempre Viva 742', '987654321', 'ana.gomez@email.com', '2025-02-10'),
+('Carlos Martínez', 'Calle del Sol 55', '564738291', 'carlos.martinez@email.com', '2025-03-01'),
+('María López', 'Calle Luna 78', '135792468', 'maria.lopez@email.com', '2025-03-25'),
+('Juan Pérez', 'Calle Falsa 123', '600123456', 'juan.perez@email.com', '2025-03-01'),
+('Ana Martínez', 'Avenida Principal 456', '600654321', 'ana.martinez@email.com', '2025-02-15'),
+('Luis García', 'Plaza Central 789', '600987654', 'luis.garcia@email.com', '2025-01-10'),
+('María Sanchez', 'Paseo de la Fuente 321', '600321654', 'maria.lopez@email.com', '2025-03-20'),
+('Carlos Fernández', 'Camino Verde 111', '600456789', 'carlos.fernandez@email.com', '2025-03-25'),
+('Sandra Fernández', 'Camino Verde 111', '600456789', 'carlos.fernandez@email.com', '2025-03-25'),
+('Elena Castro', 'Calle Luna 555', '600111222', 'elena.castro@email.com', '2025-03-05'),
+('Pedro Morales', 'Avenida Sol 777', '600333444', 'pedro.morales@email.com', '2025-03-18'),
+('Clara Torres', 'Plaza Estrella 888', '600555666', 'clara.torres@email.com', '2025-02-28'),
+('Sofía Romero', 'Calle Flores 999', '600777888', 'sofia.romero@email.com', '2025-03-02'),
+('Diego Ruiz', 'Paseo Verde 444', '600999000', 'diego.ruiz@email.com', '2025-03-22'),
+('Laura Sánchez', 'Calle Mar 123', '600222333', 'laura.sanchez@email.com', '2025-03-12'),
+('Patricia Ortiz', 'Plaza del Sol 456', '600666777', 'patricia.ortiz@email.com', '2025-02-05');

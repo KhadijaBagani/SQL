@@ -11,6 +11,12 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Join_Two", "Join_Two\Join_T
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Summarize_Data_Queries", "Summarize_Data_Queries\Summarize_Data_Queries.ssmssqlproj", "{E6A29A97-3330-41C8-B410-1C53107F2AAC}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Provincias", "Provincias\Provincias.ssmssqlproj", "{CB1E2171-0B19-4CA9-8D43-1A2FBB7D5883}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "AlmacenObjetos", "AlmacenObjetos\AlmacenObjetos.ssmssqlproj", "{DB6BFAF1-653D-4627-87A2-E479C5B7C390}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "La Academia", "La Academia\La Academia.ssmssqlproj", "{30CB9A44-016B-4459-914A-38C39BBCEBEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -20,7 +26,10 @@ Global
 		{42805E72-5C70-471B-8132-FF9DDF373C9B}.Default|Default.ActiveCfg = Default
 		{AFE359D1-AD7E-4DAC-9905-F94F9CE79AC3}.Default|Default.ActiveCfg = Default
 		{E6A29A97-3330-41C8-B410-1C53107F2AAC}.Default|Default.ActiveCfg = Default
-		{B35C83D9-FDD6-4899-A2D0-79E8057AD3F0}.Default|Default.ActiveCfg = Default
+		{E1DCBFDA-D77D-42C2-A2BD-E95115FB731C}.Default|Default.ActiveCfg = Default
+		{CB1E2171-0B19-4CA9-8D43-1A2FBB7D5883}.Default|Default.ActiveCfg = Default
+		{DB6BFAF1-653D-4627-87A2-E479C5B7C390}.Default|Default.ActiveCfg = Default
+		{30CB9A44-016B-4459-914A-38C39BBCEBEB}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
