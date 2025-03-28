@@ -1,3 +1,5 @@
+USE Datos_Taller
+
 CREATE TABLE Clientes (
     NIF VARCHAR(9) PRIMARY KEY,
     Nombre VARCHAR(50) NOT NULL,
