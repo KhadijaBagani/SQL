@@ -11,5 +11,5 @@ CREATE TABLE Clientes (
     Telefono FLOAT NOT NULL,
     Correo_Electronico VARCHAR(100) NOT NULL,
     Datos_Adjuntos VARCHAR(255) NOT NULL,
-	CONSTRAINT [CK_Correo_Electronico] CHECK  (([Correo_Electronico] like '%_@__%.__%'))
+	CONSTRAINT [CK_Correo_Electronico] CHECK  (([Correo_Electronico] like '%_@_%._%'))
 	);
