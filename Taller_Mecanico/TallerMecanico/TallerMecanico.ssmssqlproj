@@ -70,6 +70,18 @@
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>07_InsertTable_Reparaciones.sql</FullPath>
         </FileNode>
+        <FileNode Name="08_Procedure_Factura.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>08_Procedure_Factura.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_ExecProcedure_Factura.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>09_ExecProcedure_Factura.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
