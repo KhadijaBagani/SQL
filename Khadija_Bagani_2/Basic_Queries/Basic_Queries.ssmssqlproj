@@ -40,6 +40,12 @@
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>Ejercicios SQL.sql</FullPath>
         </FileNode>
+        <FileNode Name="Prueba aDVENTURE WORKS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>Prueba aDVENTURE WORKS.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tablas Ordenadas por cantidad FIlas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
