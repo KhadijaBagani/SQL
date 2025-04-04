@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB03F016-5C07-4083-BC33-329099B2ADAE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\GitHub\01_query.sql = ..\..\GitHub\01_query.sql
+		..\..\GitHub\02_query.sql = ..\..\GitHub\02_query.sql
+		..\..\GitHub\03_query.sql = ..\..\GitHub\03_query.sql
+		..\..\GitHub\04_query.sql = ..\..\GitHub\04_query.sql
+		..\..\GitHub\05_query.sql = ..\..\GitHub\05_query.sql
+		..\..\GitHub\06_query.sql = ..\..\GitHub\06_query.sql
+		..\..\GitHub\07_query.sql = ..\..\GitHub\07_query.sql
+		..\..\GitHub\20_query.sql = ..\..\GitHub\20_query.sql
+		..\..\GitHub\21_query.sql = ..\..\GitHub\21_query.sql
+		..\..\GitHub\30_query.sql = ..\..\GitHub\30_query.sql
+		..\..\GitHub\31_query.sql = ..\..\GitHub\31_query.sql
+		..\..\GitHub\99_query.sql = ..\..\GitHub\99_query.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145B44A3-A280-4A75-ADB8-CC1EF392FB26}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F063BC-488C-4A6D-AE02-3DBC6B8E652F}
+	EndGlobalSection
+EndGlobal
