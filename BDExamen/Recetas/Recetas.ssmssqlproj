@@ -118,6 +118,12 @@
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>16_Temporadas receta.sql</FullPath>
         </FileNode>
+        <FileNode Name="99_muestra_todo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>99_muestra_todo.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
