@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35E9A9CF-6D11-4F3E-8D2F-4DE8BCAC543A}"
+	ProjectSection(SolutionItems) = preProject
+		Normalizacion 3.sql = Normalizacion 3.sql
+		Normalizacion1.sql = Normalizacion1.sql
+		Normalizacion2.sql = Normalizacion2.sql
+		Normalizacion4.sql = Normalizacion4.sql
+		Normalizacion5.sql = Normalizacion5.sql
+		Normalizacion7.sql = Normalizacion7.sql
+		Normalizacion8.sql = Normalizacion8.sql
+		Normalizacion9.sql = Normalizacion9.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D83FAA5-0F8F-404A-AF26-0EBCBDD2DBE1}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC87ED4E-2C44-4019-BD85-6847F11E2D1D}
+	EndGlobalSection
+EndGlobal
